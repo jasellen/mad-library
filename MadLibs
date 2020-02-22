@@ -1,0 +1,7 @@
+print('Hello and Welcome to Madlibs\n')
+adjective = input('Name an Adjective:\n')
+noun = input('Name a Noun:\n')
+color = input('Name a Color:\n')
+place = input('Name a Place:\n')
+name = input('Come up with a Name:\n')
+print('\nThe', adjective, noun, 'took the', color, 'brick road to',place, 'to see', name)
